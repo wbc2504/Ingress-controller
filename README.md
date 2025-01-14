@@ -20,3 +20,4 @@ Necesidad:
 Fuentes:
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/
+https://docs.nginx.com/nginx-ingress-controller/installation/installing-nic/installation-with-manifests/
