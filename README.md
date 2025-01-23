@@ -16,6 +16,9 @@ Necesidad:
 
 ![image](https://github.com/user-attachments/assets/2b4fb9e5-5130-4606-b324-7a26327154a3)
 
+Comandos:
+
+kubectl create secret tls tls-secret --cert=wildcard.crt --key=wildcard.key -n awx
   
 Fuentes:
 
